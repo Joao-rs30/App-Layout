@@ -1,6 +1,6 @@
-# myapp
+# App Layout
 
-A new Flutter project.
+aluno: João Rafael Szarowicz, unidade11, atividade2
 
 ## Getting Started
 
